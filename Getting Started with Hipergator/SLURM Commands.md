@@ -13,3 +13,5 @@
   * example: `srun --ntasks=1 --cpus-per-task=2 --mem=2gb -t 90 --pty bash -i`
 
 5. Check group resources: `showQos group_name`
+  
+6. Check status of resources usage: `slurmInfo group_name`
