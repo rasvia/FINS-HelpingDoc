@@ -9,5 +9,7 @@
 
 3. Cancelling a Job: `scancel jobID`
 
-4. Start Interactive Session: srun <resources> --pty bash -i
+4. Start Interactive Session: `srun <resources> --pty bash -i`
   * example: `srun --ntasks=1 --cpus-per-task=2 --mem=2gb -t 90 --pty bash -i`
+
+5. Check group resources: `showQos group_name`
