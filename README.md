@@ -8,7 +8,7 @@ This repository contains documents about how to use the lab server and Hipergato
 
 ## Getting started with Hipergator
 1. [Basics that you need to know with Higergator](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/Basics.md)
-2. File Transfer and Storage
+2. [File Transfer and Storage](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/File%20Transfer%20and%20Storage.md)
 3. Basic SLURM commands
 4. Different partitions on Hipergator
 5. Memory and GPU allocation
