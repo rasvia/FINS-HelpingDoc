@@ -1,10 +1,10 @@
 # FINS-HelpingDoc
 
-This repository contains helping documents about how to use lab server and Hipergator, the information you can find in this repo is as following:
+This repository contains documents about how to use the lab server and Hipergator. The information you can find in this repo is as follows:
 
 ## Getting started with Lab Servers
-1. Connect to lab storage server
-2. Connect to lab testing server
+1. Connect to the lab storage server
+2. Connect to the lab testing server
 
 ## Getting started with Hipergator
 1. Basics that you need to know with Higergator
