@@ -15,4 +15,4 @@
 
 ### [File Transfer](https://help.rc.ufl.edu/doc/Transfer_Data)
 * Personally, I would recommand using [WinSCP](https://winscp.net/eng/index.php) for transferring files to hipergator.
-* You can also map the storage to your computer and access files from the mapped drive. 
+* You can also map the blue/orange storage to your computer and access files from the mapped drive. 
