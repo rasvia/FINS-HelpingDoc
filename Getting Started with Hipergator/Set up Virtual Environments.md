@@ -22,3 +22,5 @@
 * Activate environment: `conda activate env_name` or `conda activate env_loc`
 * Installing packages to the environment: use `conda` or `pip` to install packages to your environment
 * Deactivate environment: `conda deactivate`
+
+For setting up virtual environments with specific versions of packages, please consult [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
