@@ -1,4 +1,4 @@
-## First thing you need to do before getting started with Hipergator
+## Before getting started with Hipergator
 
 * Submit a account request [here](https://www.rc.ufl.edu/get-started/hipergator/request-hipergator-account/), indicating your PI and sponsor. 
 
