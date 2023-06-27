@@ -6,6 +6,6 @@ To access the servers, you can ssh to the server with the following commands via
 * To access server 2: `ssh login@ece-woodard-2vlnxgpu.ad.ufl.edu`
 * To access server 3: `ssh login@ece-woodard-3vlnxgpu.ad.ufl.edu`
 
-After connected to the server":
+After connected to the server:
 * Use `source /usr/local/anaconda/settings` to enable anaconda on the testing server.
 * Use `mount ~/research` to mount the storage server to the testing server, and then you should be able to access the files on the storage server.
