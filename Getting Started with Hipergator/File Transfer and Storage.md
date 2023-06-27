@@ -14,5 +14,5 @@
   * You can access orange storage with `/orange/GROUP`; no user or shared directories are available on Orange Storage. 
 
 ### [File Transfer](https://help.rc.ufl.edu/doc/Transfer_Data)
-* Personally, I would recommand using [WinSCP](https://winscp.net/eng/index.php) for transferring files to hipergator.
+* Personally, I would recommend using [WinSCP](https://winscp.net/eng/index.php) for transferring files to hipergator.
 * You can also map the blue/orange storage to your computer and access files from the mapped drive. 
