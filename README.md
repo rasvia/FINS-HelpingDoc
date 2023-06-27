@@ -4,7 +4,7 @@ This repository contains documents about how to use the lab server and Hipergato
 
 ## Getting started with Lab Servers
 1. [Connect to the lab storage server](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Lab%20Servers/Access%20Lab%20Storage%20Server.md)
-2. Connect to the lab testing server
+2. [Connect to the lab testing server](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Lab%20Servers/Access%20Lab%20Testing%20Server.md)
 
 ## [Getting started with Hipergator](https://github.com/zhumd225/FINS-HelpingDoc/tree/main/Getting%20Started%20with%20Hipergator)
 1. [Basics that you need to know about Higergator](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/Basics.md)
