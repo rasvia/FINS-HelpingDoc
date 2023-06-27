@@ -6,4 +6,4 @@
 
 * After obtaining account, you can ssh to hipergator via terminal with `ssh login@hpg.rc.ufl.edu`.
 
-Other Basics you might need to know about Hipergator can be found [here](https://help.rc.ufl.edu/doc/Getting_Started).
+Other Basics you might need to know about Hipergator can be found [here](https://help.rc.ufl.edu/doc/Getting_Started), and [here](https://www.rc.ufl.edu/get-support/).
