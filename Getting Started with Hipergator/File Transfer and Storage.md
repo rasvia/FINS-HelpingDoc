@@ -1,7 +1,8 @@
 ## File Transfer and Storage
 
 ### [Storage](https://help.rc.ufl.edu/doc/Storage)
-* Home storage: Your home directory is the first directory you see when you log into HiPerGator. It's always found at `~`, /home/$USER or $HOME paths
+* Home storage:
+    * Your home directory is the first directory you see when you log into HiPerGator. It's always found at `~`, `/home/$USER` or `$HOME` paths.
 * Blue Storage
 * Orange Storage
 
