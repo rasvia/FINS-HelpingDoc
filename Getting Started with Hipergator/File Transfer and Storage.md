@@ -4,7 +4,7 @@
 * Home storage:
    * Your home directory is the first directory you see when you log into HiPerGator. It's always found at `~`, `/home/$USER`, or `$HOME` paths.
    * Home Directory contains files important for setting up user shell environment and secure shell connections.
-   * __Do not remove any .bash* files or the .ssh directory, or you will have problems using your HiPerGator account.__
+   * __Do not remove__ any .bash* files or the .ssh directory, or you will have problems using your HiPerGator account.
 * Blue Storage:
    * Blue storage is the main high-performance parallel file system. This is where all job input/output, or reading and writing files must happen.
    * You should store all the files relating to active projects here and submit jobs from Blue Storage.
