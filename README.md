@@ -11,7 +11,7 @@ This repository contains documents about how to use the lab server and Hipergato
 2. [File Transfer and Storage](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/File%20Transfer%20and%20Storage.md)
 3. [Basic SLURM commands](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/SLURM%20Commands.md)
 4. Different partitions on Hipergator
-5. Memory and GPU allocation
+5. [Memory and GPU allocation](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/Memory%20and%20GPU%20Allocation.md)
 6. Set up Anaconda Virtual Environments
 7. Sample scripts for submitting SLURM jobs
    * [Single Threaded Job](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/SampleScripts/SampleScript-SingleThread.sabtch)
