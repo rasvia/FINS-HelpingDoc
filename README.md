@@ -14,6 +14,6 @@ This repository contains documents about how to use the lab server and Hipergato
 5. Memory and GPU allocation
 6. Set up Anaconda Virtual Environments
 7. [Sample scripts for submitting SLURM jobs](https://github.com/zhumd225/FINS-HelpingDoc/tree/main/Getting%20Started%20with%20Hipergator/SampleScripts)
-   * Single Threaded Job
-   * Multi-Threaded Job
-   * Job that uses GPU
+   * [Single Threaded Job](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/SampleScripts/SampleScript-SingleThread.sabtch)
+   * [Multi-Threaded Job](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/SampleScripts/SampleScript-MultiThread.sbatch)
+   * [Job that uses GPU](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/SampleScripts/SampleScript-GPU.sbatch)
