@@ -1,7 +1,7 @@
 ## Setting up Virtual Environments on Hipergator
 * The basics about how to __manage environments__ via Anaconda can be found [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#).
 
-### Initial Setup (Needed for first time)
+### Initial Setup (Only Needed for the First Time)
 * Log in to Hipergator with your account.
 * Download and install `Miniconda` to your home directory using the following commands:
   
