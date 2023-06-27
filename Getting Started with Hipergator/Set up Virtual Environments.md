@@ -16,4 +16,9 @@
 
 ### Set up Virtual Environments via Conda on Hipergator
 * To create an environment: `conda create --name myenv`.
-  * Please note that this command will install the environment to your __home directory__.
+  * Please note: this command will install the environment to your __home directory__.
+  * Personally, I recommend installing environments to Blue Storage as the home directory has very limited storage.
+* Specifying a location for an environment: `conda create --prefix env_loc`
+* Activate environment: `conda activate env_name/env_loc`
+* Installing packages to environment: use `conda` or `pip`
+* Deactivate environment: `conda deactivate'
