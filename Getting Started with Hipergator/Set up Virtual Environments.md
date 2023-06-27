@@ -12,4 +12,8 @@
   `chmod +x Miniconda3-latest-Linux-x86_64.sh`
 
   `./Miniconda3-latest-Linux-x86_64.sh`
-### 
+
+
+### Set up Virtual Environments via Conda on Hipergator
+* To create an environment: `conda create --name myenv`.
+  * Please note that this command will install the environment to your __home directory__.
