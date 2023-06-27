@@ -15,4 +15,6 @@
 
 ### [File Transfer](https://help.rc.ufl.edu/doc/Transfer_Data)
 * Personally, I would recommend using [WinSCP](https://winscp.net/eng/index.php) for transferring files to hipergator.
-* You can also map the blue/orange storage to your computer and access files from the mapped drive. 
+* You can also map the blue/orange storage to your computer and access files from the mapped drive. The steps will be the same as mapping the lab storage server, but the path of the drive should be:
+* Connecting to Blue Storage: `\\exasmb.rc.ufl.edu\blue\group_name`
+* Connecting to Orange Storage: `\\exasmb.rc.ufl.edu\orange\group_name`
