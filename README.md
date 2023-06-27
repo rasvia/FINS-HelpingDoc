@@ -7,7 +7,7 @@ This repository contains documents about how to use the lab server and Hipergato
 2. Connect to the lab testing server
 
 ## Getting started with Hipergator
-1. Basics that you need to know with Higergator
+1. [Basics that you need to know with Higergator](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/Basics.md)
 2. File Transfer and Storage
 3. Basic SLURM commands
 4. Different partitions on Hipergator
