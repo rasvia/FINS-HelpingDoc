@@ -17,3 +17,4 @@ This repository contains documents about how to use the lab server and Hipergato
    * [Single Threaded Job](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/SampleScripts/SampleScript-SingleThread.sabtch)
    * [Multi-Threaded Job](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/SampleScripts/SampleScript-MultiThread.sbatch)
    * [Job that uses GPU](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/SampleScripts/SampleScript-GPU.sbatch)
+More documents will be added later, regarding how to enable parallelization on Hipergator, etc.
