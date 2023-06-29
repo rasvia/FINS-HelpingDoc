@@ -8,5 +8,5 @@
   * For MacOS:
     * In Finder, either hit Command+K to bring up`Connect to Serve` or click `Go > Connect to Server`.
     * Enter the path of the research drive (`smb://ece-bmll-file.ad.ufl.edu/research`) and click Connect.
-    * Enter your login credentials, but the username should be `UFAD/login`.
+    * Login with your credentials, but the username should be `UFAD/login`.
     * Click OK to mount the network drive.
