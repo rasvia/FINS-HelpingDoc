@@ -21,9 +21,8 @@ This repository contains documents about how to use the lab server and Hipergato
 ## Academic Writing
 1. [Research Communication Resources - Academic and Patent Search Engines, writing processors, grammar, citations, etc.]()
 2. [How to Write a Good Literature Review?]()
-3. [Literature Review Management Template]()
-4. [Writing for Computer Science]()
-5. [English for Research Papers]()
+3. [Writing for Computer Science]()
+4. [English for Research Papers]()
 
 
 
