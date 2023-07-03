@@ -19,10 +19,10 @@ This repository contains documents about how to use the lab server and Hipergato
    * [Job that uses GPU](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/SampleScripts/SampleScript-GPU.sbatch)
 
 ## Academic Writing
-1. [Research Communication Resources - Academic and Patent Search Engines, writing processors, grammar, citations, etc.]()
-2. [How to Write a Good Literature Review?]()
-3. [Writing for Computer Science]()
-4. [English for Research Papers]()
+1. [Research Communication Resources - Academic and Patent Search Engines, writing processors, grammar, citations, etc.](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Academic%20Writing/Research%20Communication%20Resources.pdf)
+2. [How to Write a Good Literature Review?](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Academic%20Writing/Literature%20Reviews%20(Woodard).pdf)
+3. [Writing for Computer Science](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Academic%20Writing/Writing%20for%20Computer%20Science%20(Zobel).pdf)
+4. [English for Research Papers](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Academic%20Writing/English%20for%20Writing%20Research%20Papers%20(Wallwork).pdf)
 
 
 
