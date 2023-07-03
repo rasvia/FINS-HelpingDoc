@@ -18,7 +18,7 @@ This repository contains documents about how to use the lab server and Hipergato
    * [Multi-Threaded Job](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/SampleScripts/SampleScript-MultiThread.sbatch)
    * [Job that uses GPU](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/SampleScripts/SampleScript-GPU.sbatch)
 
-## Academic Writing
+## [Academic Writing](https://github.com/zhumd225/FINS-HelpingDoc/tree/main/Academic%20Writing)
 1. [Research Communication Resources - Academic and Patent Search Engines, writing processors, grammar, citations, etc.](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Academic%20Writing/Research%20Communication%20Resources.pdf)
 2. [How to Write a Good Literature Review?](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Academic%20Writing/Literature%20Reviews%20(Woodard).pdf)
 3. [Writing for Computer Science](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Academic%20Writing/Writing%20for%20Computer%20Science%20(Zobel).pdf)
