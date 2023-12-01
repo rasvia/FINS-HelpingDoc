@@ -1,15 +1,9 @@
-## Installing NVIDIA Apex to virtual env on HPG
+## Using TensorBoard on HPG
 
-`git clone https://github.com/NVIDIA/apex`
+* Request a 1-CPU 2-GB RAM HiperGator Desktop via OnDemand
+* start a tensorboard instance in the terminal/shell:
+  
+  `$ module load tensorflow ubuntu`
 
-`cd apex`
-
-`module load cuda`
-
-`# if pip >= 23.1 (ref: https://pip.pypa.io/en/stable/news/#v23-1) which supports multiple --config-settings with the same key... 
-
-pip install -v --disable-pip-version-check --no-cache-dir --no-build-isolation --config-settings "--build-option=--cpp_ext" --config-settings "--build-option=--cuda_ext" ./`
-
-`# otherwise
-
-pip install -v --disable-pip-version-check --no-cache-dir --no-build-isolation --global-option="--cpp_ext" --global-option="--cuda_ext" ./`
+  `$ tensorboard --logdir YOUR_LOG_DIR`
+* 
