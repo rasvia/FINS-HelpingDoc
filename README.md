@@ -7,7 +7,7 @@ This repository contains documents about how to use the lab server and Hipergato
 2. [Connect to the lab testing server](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Lab%20Servers/Access%20Lab%20Testing%20Server.md)
 
 ## [Getting started with Hipergator](https://github.com/zhumd225/FINS-HelpingDoc/tree/main/Getting%20Started%20with%20Hipergator)
-1. [Basics that you need to know about Higergator](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/Basics.md)
+1. [Basics that you need to know about Higergator](https://github.com/rasvia/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/Basics%20about%20Hipergator.md)
 2. [File Transfer and Storage](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/File%20Transfer%20and%20Storage.md)
 3. [Basic SLURM commands](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/SLURM%20Commands.md)
 4. [Different partitions on Hipergator](https://github.com/zhumd225/FINS-HelpingDoc/blob/main/Getting%20Started%20with%20Hipergator/Hipergator%20Partitions.md)
