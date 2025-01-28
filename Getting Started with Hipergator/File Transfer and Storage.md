@@ -9,6 +9,7 @@
 * Blue Storage
    * Blue storage is the main high-performance parallel file system. This is where all job input/output, or reading and writing files must happen.
    * You should store all the files relating to active projects here and submit jobs from Blue Storage.
+   * Remember to archive old files to Orange storage to free storage space for other group members!
    * By default, your personal directory tree will start at `/blue/GROUP/USER,` a shared directory at `/blue/GROUP/share` for groups that prefer to share all their data between group members.
 * Orange Storage
   * Orange storage cannot support the full brunt of the applications running on HiPerGator. We use Orange storage for archiving inactive projects and datasets.
