@@ -1,0 +1,9 @@
+## Code Development with IDE on Hipergator
+
+### [VSCode](https://help.rc.ufl.edu/doc/VS_Code_Remote_Development)
+* Hipergator provides remote usage of VSCode for coding development, please check the link for more details.
+* The general step of using VScode is listed below:
+  * After logging into Hipergator via ssh, submit a Interactive Session request using command `srun` (example - `srun --ntasks=1 --cpus-per-task=2 --mem=2gb -t 90 --pty bash -i`)
+  * After resources have been allocated on hipergator, use commands `module load vscode` and `code tunnel` in terminal. Following the instruction coming up.
+  * You can open online-version of VSCode built in HPG, or use local VSCode on your computer to connect to the node for code development.
+  * To use local VSCode, after tunnel being activated, login to GitHub or Microsoft account.
